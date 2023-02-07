@@ -26,7 +26,7 @@ export default function Home() {
           <img
             src="https://res.cloudinary.com/sangsakawira/image/upload/v1672973250/Screen_Shot_2023-01-06_at_09.47.15_tnqi2f.png"
             alt="Gawegawe Logo"
-            style={{ maxWidth: "20%", height: "auto" }}
+            style={{ maxWidth: "60%", height: "auto" }}
           />
         </div>
         <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "auto",marginTop:"60px" }}>
